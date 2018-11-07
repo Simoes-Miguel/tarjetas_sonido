@@ -136,6 +136,7 @@ Otra característica importante de una tarjeta de sonido es su polifonía. Es el
 # Listado de estándares.
 ###### [Índice](#Índice)
 Breve listado como repaso a los estándares de las diferentes tarjetas a lo largo de los años.
+
 |Nombre			|Año			|Resolución			|Frecuencia			|
 |---				|---  				|---					|---					|
 |AdLib			|1987			| 64 configuraciones de volumen | 49.716 Hz	|
