@@ -7,7 +7,7 @@ Una **tarjeta de sonido** o **placa de sonido** es una tarjeta de expansión par
 * [Funcionamiento](#Funcionamiento)
 * [Conexiones](#Conexiones)
 * [Conceptos](#Conceptos)
-* [Listado de estándares](#Listado-de-estándares.)
+* [Listado de estándares](#Listado-de-estándares)
 * [Otra información](#otra-información)
  
 # Historia 
